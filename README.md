@@ -4,7 +4,7 @@ and then applied the kernel to the image and applied mirroring algorithm  for th
 
 Filter options:
 1. Smoothing - Performs the convolution on colored Image
-2. Edge detection - Performs the convolution on grayscale Image with laplacian/gradient operators
+2. Edge detection - Performs the convolution on grayscale Image with Laplacian of Gaussian (LoG) & Sobel filters
 
 
 
